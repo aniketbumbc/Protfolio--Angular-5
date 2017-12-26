@@ -1,6 +1,9 @@
 #myFooter {
-	background-color: #373a48;
-	color:white;
+	background-color: #01030e;
+	color:rgb(24, 159, 221);
+	position:absolute;
+	bottom:0;
+	width:100%;
 }
 
 #myFooter .footer-copyright{
@@ -12,7 +15,7 @@
 
 #myFooter .footer-copyright p{
 	margin:10px;
-	color: #ccc;
+	color:rgb(24, 159, 221);
 }
 
 #myFooter ul{
@@ -24,7 +27,7 @@
 
 #myFooter h5{
 	font-size: 18px;
-    color: white;
+    color:rgb(24, 159, 221);
     font-weight: bold;
     margin-top: 30px;
 }
